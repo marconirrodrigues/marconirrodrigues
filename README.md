@@ -1,9 +1,6 @@
-### Marconi Rodrigues - [Data Analyst and I hope that soon I will be a Data Engineer/Scientist] 😄
+### Marconi Rodrigues - [Data Engineer]
 
-## I am an Production Engineer who loves data and how to use it to make the world better! 🦾 🗺️
-
-- 📈 I’m currently working as PMO and Data Analyst
-- 💻 I'm also learning Data Engineer and Data Scientist 😅
+- 📈 I’m currently working as BI and Data Engineer Consultant
 
 ### Connect with me:
 
