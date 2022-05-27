@@ -1,6 +1,6 @@
 ### Marconi Rodrigues - [Data Engineer]
 
-- 📈 I’m currently working as BI and Data Engineer Consultant
+- 📈 I’m currently working as Data Engineer
 
 ### Connect with me:
 
