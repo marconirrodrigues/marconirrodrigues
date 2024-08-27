@@ -21,7 +21,7 @@
 - 💼 Senior Data Engineer at Itaú Unibanco
 - 🎓 MBA in Digital Business from USP/Esalq (ongoing)
 - 🌱 Passionate about data-driven cultures and storytelling through data
-- 📚 Published an article on Flexible Work Analysis and its Applications in Companies
+- 🛠️ Specializing in scalable data solutions, governance and cloud migrations.
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, SQL
