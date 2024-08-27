@@ -1,45 +1,32 @@
-### Marconi Rodrigues - [Data Engineer]
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?w=600" alt="Marconi Rodrigues" />
+</p>
 
-- 📈 I’m currently working as Data Engineer
+<h1 align="center">Marconi's Github 👋</h1>
+<h3 align="center">Senior Data Engineer | Python | Spark | SQL | Terraform | AWS | GCP</h3>
 
-### Connect with me:
+<p align="center">
+  <a href="mailto:marconirrodrigues@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-marconirrodrigues%40hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marconirangel">
+    <img src="https://img.shields.io/badge/LinkedIn-Marconi_Rodrigues-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/marconirangel/)
-[<img align="left"  width="22px" src="https://www.kaggle.com/static/images/site-logo.png" />](https://www.kaggle.com/marconirodrigues)
-[<img align="left"  width="22px" src="http://fonaje.amb.com.br/wp-content/uploads/2020/08/instagram.jpg" />](https://www.instagram.com/marconi.rangel/)
+---
 
-<br />
+### 👨‍💻 About Me
+- 💼 Senior Data Engineer at Itaú Unibanco
+- 🎓 MBA in Digital Business from USP/Esalq (ongoing)
+- 🌱 Passionate about data-driven cultures and storytelling through data
+- 📚 Published an article on Flexible Work Analysis and its Applications in Companies
 
-### Languages and Tools:
+### 🛠️ Technologies & Tools
+- **Languages:** Python, SQL
+- **Big Data & Cloud:** AWS (Glue, Lambda, Athena, Quicksight, Step Functions), GCP (BigQuery, PubSub, Cloud Composer)
+- **Data Engineering:** Spark, Terraform, Databricks
+- **DevOps & CI/CD:** Github Actions, Terraform
 
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
-
-<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/2x/mysql-logo.png" />
-
-<img align="left" alt="Pandas" width="26px" src="https://cdn.shortpixel.ai/spai/w_375+q_lossy+ret_img+to_webp/https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
-
-<img align="left" alt="Numpy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />
-
-<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
-
-<img align="left" alt="Ploty" width="26px" src="https://plotly.com/all_static/images/plotly_graphing_libraries_1.png" />
-
-<img align="left" alt="PowerBI" width="26px" src="https://img.icons8.com/ios-filled/2x/power-bi.png" />
-
-<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/2x/tableau-software.png" />
-
-<img align="left" alt="Qlik" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_qlikview_icon_130217.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
-
+<p align="center">
