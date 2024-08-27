@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?w=600" alt="Marconi Rodrigues" />
+  <img src="https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?w=600" alt="Marconi Rodrigues" style="width:100%; max-width:1200px; height:250px; object-fit: cover; border-radius: 10px;" />
 </p>
 
 <h1 align="center">Marconi's Github 👋</h1>
